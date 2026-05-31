@@ -13,12 +13,12 @@ In ancient times the kingdom of Avanor was mighty, but it is now weak and isolat
             <img src="Images/title_screen.png" width="100%" alt="title_screen"><br>
         </td>
         <td align="left" width="50%" valign="top">
-            <img src="Images/royal_bed.png" width="100%" alt="royal_bed"><br>
+            <img src="Images/in_town.png" width="100%" alt="royal_bed"><br>
         </td>
     </tr>
     <tr>
         <td align="left" width="50%" valign="top">
-            <img src="Images/stairway.png" width="100%" alt="stairway"><br>
+            <img src="Images/speak.png" width="100%" alt="stairway"><br>
         </td>
         <td align="left" width="50%" valign="top">
             <img src="Images/dont_steal.png" width="100%" alt="dont_steal"><br>
