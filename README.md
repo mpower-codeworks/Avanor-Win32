@@ -1,2 +1,5 @@
 # Avanor-Win32
-Windows 32/64 build of Avanor, a fantasy rogue-like role-playing game.
+
+<img src="images/PRBRD_LOGO.png" align="left" width="160" alt="Paperbird logo">
+
+**Windows 32/64 build of Avanor, a fantasy rogue-like role-playing game.**
