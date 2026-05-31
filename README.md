@@ -1,5 +1,5 @@
 # Avanor-Win32
-<img src="Images/icon.png" align="left" width="160" alt="Avanor Logo">
+<img src="Images/icon.png" align="left" width="120" alt="Avanor Logo">
 
 
 
