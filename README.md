@@ -24,3 +24,6 @@ In ancient times the kingdom of Avanor was mighty, but it is now weak and isolat
             <img src="Images/shop_keep.png" width="100%" alt="shop_keep."><br>
         </td>
     </tr>
+</table>
+
+<hr>
