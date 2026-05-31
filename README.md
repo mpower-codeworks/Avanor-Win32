@@ -5,10 +5,7 @@
 
 In ancient times the kingdom of Avanor was mighty, but it is now weak and isolated from the neighboring lands by ranges of impassable mountains. Many dreadful creatures have taken advantage of Avanor's isolation to wreak havoc upon the surviving population. As one of Avanor's few remaining heroes, you will no doubt wish to save the kingdom from the perils that have overtaken it.
 
-<img src="Images/horsey.png" align="center" width="300" alt="Avanor Logo">
-
 ## Screenshots
-
 
 <table>
     <tr>
@@ -47,4 +44,6 @@ The release package contains the game executable, required files, and a printabl
 
 The game is compiled with Visual Studio 2022 command line - buildWin32.bat is included for ease. Other Visual Studio versions will likely work just as well, but haven't been tested. 64-bit compilation has been verified as working.
 
-It is hoped that Avanor-Win32 can enable more people to discover and enjoy this great game. All credit for Avanor goes to Vadim Gaidukevich and the rest of the team whose names you will find in the game's help files. 
+It is hoped that Avanor-Win32 can enable more people to discover and enjoy this great game. All credit for Avanor goes to Vadim Gaidukevich and the rest of the team whose names you will find in the game's help files.
+
+<img src="Images/horsey.png" align="center" width="800" alt="Avanor Logo">
