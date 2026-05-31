@@ -21,7 +21,7 @@ In ancient times the kingdom of Avanor was mighty, but it is now weak and isolat
             <img src="Images/stairway.png" width="100%" alt="stairway"><br>
         </td>
         <td align="left" width="50%" valign="top">
-            <img src="Images/shop_keep.png" width="100%" alt="shop_keep."><br>
+            <img src="Images/dont_steal.png" width="100%" alt="dont_steal"><br>
         </td>
     </tr>
 </table>
