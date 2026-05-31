@@ -32,7 +32,7 @@ Avanor-Win32 is a native Win32/GDI port of Avanor. It does not change the origin
 
 The game can be played in windowed or full screen mode.
 
-The release package contains the game, required files, and a printable pdf of the game's manual. Installation is not required. 
+The release package contains the game executable, required files, and a printable pdf of the game's manual. Installation is not required. 
 
 The game is compiled with Visual Studio 2022 command line - buildWin32.bat is included for ease. Other Visual Studio versions will likely work just as well, but haven't been tested. 64-bit compilation has been verified as working.
 
