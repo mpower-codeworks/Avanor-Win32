@@ -26,4 +26,12 @@ In ancient times the kingdom of Avanor was mighty, but it is now weak and isolat
     </tr>
 </table>
 
-<hr>
+# About Avanor-Win32
+
+Avanor-Win32 is a native Win32/GDI port of Avanor. It does not change the original game mechanics in any way. A couple of minor C++ modifications needed to be made for Win32 compilation.
+
+The game can be played in windowed or full screen mode.
+
+The game is compiled with Visual Studio 2022 - other VS versions will likely work just as well, but haven't been tested.
+
+It is hoped that Avanor-Win32 can enable more people to discover and enjoy this great game. All credit for Avanor goes to Vadim Gaidukevich and the rest of the team whose names you will find in the game's help files. 
