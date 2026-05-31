@@ -38,9 +38,9 @@ In ancient times the kingdom of Avanor was mighty, but it is now weak and isolat
 
 Avanor-Win32 is a native Win32/GDI port of Avanor. It does not change the original game mechanics in any way. A couple of minor C++ modifications needed to be made for Win32 compilation.
 
-The game can be played in windowed or full screen mode.
+The game can be played in windowed or full screen mode. Player may choose different fonts and turn off/on the graphical background.
 
-The release package contains the game executable, required files, and a printable pdf of the game's manual. Installation is not required. 
+The release package contains the game executable, required files, and a printable pdf of the manual. Installation is not required. 
 
 The game is compiled with Visual Studio 2022 command line - buildWin32.bat is included for ease. Other Visual Studio versions will likely work just as well, but haven't been tested. 64-bit compilation has been verified as working.
 
