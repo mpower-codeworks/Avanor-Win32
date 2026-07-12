@@ -48,4 +48,4 @@ The game is compiled with Visual Studio 2022 command line - buildWin32.bat is in
 
 It is hoped that Avanor-Win32 can enable more people to discover and enjoy this great game. All credit for Avanor goes to Vadim Gaidukevich and the rest of the team whose names you will find in the game's help files.
 
-<img src="Images/horsey2.png" align="center" width="400" alt="Avanor Logo">
+<img src="Images/horsey2.png" align="center" width="600" alt="Avanor Logo">
