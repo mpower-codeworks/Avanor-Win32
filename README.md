@@ -22,7 +22,7 @@ will no doubt wish to save the kingdom from the perils that have overtaken it.
 𝐰𝐢𝐥𝐥 𝐧𝐨 𝐝𝐨𝐮𝐛𝐭 𝐰𝐢𝐬𝐡 𝐭𝐨 𝐬𝐚𝐯𝐞 𝐭𝐡𝐞 𝐤𝐢𝐧𝐠𝐝𝐨𝐦 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐩𝐞𝐫𝐢𝐥𝐬 𝐭𝐡𝐚𝐭 𝐡𝐚𝐯𝐞 𝐨𝐯𝐞𝐫𝐭𝐚𝐤𝐞𝐧 𝐢𝐭.
 
 
-## Screenshots
+<img src="Images/screenshots.png" width="200" alt="Screenshots">
 
 <table>
     <tr>
@@ -51,7 +51,7 @@ will no doubt wish to save the kingdom from the perils that have overtaken it.
     </tr>
 </table>
 
-<img src="Images/about.png" width="132" alt="Banner"><img src="Images/banner.png" width="300" alt="Banner">
+<img src="Images/about.png" width="90" alt="Banner"><img src="Images/banner.png" width="200" alt="Banner">
 
 Avanor-Win32 is a native Win32/GDI port of Avanor. It does not change the original game mechanics in any way. A couple of minor C++ modifications needed to be made for Win32 compilation.
 
