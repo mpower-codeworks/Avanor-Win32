@@ -1,4 +1,4 @@
-# Avanor-Win32
+<img src="images/banner.png" width="70" alt="Banner">
 <img src="Images/icon.png" align="left" width="100" alt="Avanor Logo">
 
 **A fantasy rogue-like role-playing game.**
